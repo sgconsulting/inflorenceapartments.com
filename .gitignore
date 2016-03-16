@@ -1,0 +1,7 @@
+*~
+*.pyc
+*.pyo
+*.DS_Store
+conf/conf.js
+node_modules
+docs
